@@ -119,24 +119,25 @@ Enter situation: afternoon
 
 good afternoon!
 I hope your day is great!
+
 ---
----text
 Enter situation: evening
 
 good evening!
 May your evening be filled with peace,
 positivity and happiness.
----
+
 ---text
 Enter situation: night
 good night!
 The night is young, make your time meaningful.
----
+
 ---text
 Enter situation: sleep
 Sleep mode activated.
 Rest well and recharge yourself for tomorrow.
----
+
+
 **Current Time Example:**
 
 ```text
