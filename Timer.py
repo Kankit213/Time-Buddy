@@ -3,6 +3,10 @@ print("    WELCOME TO")
 print("    Time_Buddy Project.")
 print("="*30)
 
+name = str(input("enter your name : "))
+print("welcome!",name)
+print("have a nice day!")
+
 from datetime import datetime
 def handle_situation(situation):
 
@@ -20,7 +24,7 @@ def handle_situation(situation):
                 print("It's not morning right now.")
 
         case "afternoon":
-            if hour <= 12 or hour < 15:
+            if hour <= 12 or hour < 18:
                 print("good afternoon ! \ni hope your day greatful!")
             else:
                 print("It's not afternoon right now.")
