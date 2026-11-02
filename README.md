@@ -174,7 +174,7 @@ Check your input.
 ```text
 Time-Buddy/
 │
-├── main.py
+├── Timer.py
 │
 └── README.md
 ```
