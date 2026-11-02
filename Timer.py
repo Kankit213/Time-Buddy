@@ -67,4 +67,6 @@ while True:
         break
 
     handle_situation(x)
+
+     
     
