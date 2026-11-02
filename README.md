@@ -211,7 +211,7 @@ My goal is to improve my programming skills by building practical projects step 
 
 Python Learner | Aspiring Software Developer & AI Engineer
 
-- GitHub: GitHub: [ankit123](https://github.com/ankit123)
+- GitHub: GitHub: [Kankit123](https://github.com/Kankit123)
 
 ---
 
