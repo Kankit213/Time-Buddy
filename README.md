@@ -114,29 +114,40 @@ Enter situation (morning/afternoon/evening/night/sleep/time/exit): morning
 Good morning!
 Have a nice day!
 ```
----text
+## Output Examples
+
+### 1. Afternoon
+```text
 Enter situation: afternoon
 
-good afternoon!
+Good afternoon!
 I hope your day is great!
+```
 
----
+### 2. Evening
+```text
 Enter situation: evening
 
-good evening!
+Good evening!
 May your evening be filled with peace,
 positivity and happiness.
+```
 
----text
+### 3. Night
+```text
 Enter situation: night
-good night!
-The night is young, make your time meaningful.
 
----text
+Good night!
+The night is young, make your time meaningful.
+```
+
+### 4. Sleep
+```text
 Enter situation: sleep
+
 Sleep mode activated.
 Rest well and recharge yourself for tomorrow.
-
+```
 
 **Current Time Example:**
 
